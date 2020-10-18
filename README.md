@@ -20,6 +20,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 - 💬 Ask me about anything, I am happy to help;
+- 💡 "Everything you want is a dream away"
 - ✈️ I love airplane and I'm a simmer;
 
 **Languages and Tools:** 
