@@ -1,17 +1,21 @@
-<!-- Your title -->
-## Hi, I'm André Brito, a Developer 🚀 from Brazil 🇧🇷.
+<!-- Visitors count -->
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=andrebrito16&repo=andrebrito16&countColorcountColor)
+## Hi, I'm André Brito!
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/andrebrito16)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/andrefbrito_/)
-<!--
--->
+
 &nbsp;
 
-<!-- Talking about you -->
+  <div>
+  <a href="https://github.com/andrebrito16">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrebrito16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrebrito16&layout=compact&langs_count=16&theme=dracula"/>
+<div>
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=andrebrito16)
+
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
@@ -22,20 +26,11 @@ You can use the website to generate badges: https://shields.io/
 - 💬 Ask me about anything, I am happy to help;
 - 💡 "Everything you want is a dream away"
 - ✈️ I love airplane and I'm a simmer;
+- 💻Computer Engineering Student
 
 **Languages and Tools:** 
 
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
 
-<p>
-  <a href="https://github.com/andrebrito16/handle-path-oz">
-    <img width="55%" align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=andrebrito16&show_icons=true&hide_border=true" />
-  </a>
-  -->
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
 
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
@@ -45,24 +40,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <br />
-  
+  <br />  
+  <br |>
 
   
-</p>
-
-<!-- Your hits or visitors
-site: http://hits.dwyl.com or https://visitor-badge.glitch.me
-Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
--->
-<!--
-<p align="center">
-  <a href="http://hits.dwyl.com/onimur/onimur" target="_blank">
-    <img align="center" alt="HitCount" src="http://hits.dwyl.com/onimur/onimur.svg" />
-  </a>
-    <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=onimur.onimur" />
-</p>
--->
-
----
+ ![Snake animation](https://github.com/andrebrito16/andrebrito16/blob/output/github-contribution-grid-snake.svg)
 
