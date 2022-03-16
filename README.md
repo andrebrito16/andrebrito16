@@ -1,7 +1,8 @@
 <!-- Visitors count -->
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=andrebrito16&repo=andrebrito16&countColorcountColor)
-## Hi, I'm a 🇧🇷 software engineer
-
+<h1 align="center">
+  Hi <img src="assets/images/Hi.gif" alt="hi gif" width="30px">, I'm André a 🇧🇷 developer
+</h1>
 &nbsp;
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=andrebrito16)
 
