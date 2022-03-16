@@ -1,6 +1,6 @@
 <!-- Visitors count -->
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=andrebrito16&repo=andrebrito16&countColorcountColor)
-## Hi, I'm a 🇧🇷 Computer Enginnering Student
+## Hi, I'm a 🇧🇷 software engineer
 
 &nbsp;
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=andrebrito16)
@@ -12,17 +12,18 @@
 <div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Js-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Java-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Elixir-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-plain.svg">
   <img align="center" alt="Python-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="React-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="NextJs-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 </div> 
 
 <br />
 
- ![Snake animation](https://github.com/andrebrito16/andrebrito16/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/andrebrito16/andrebrito16/blob/output/github-contribution-grid-snake.svg)
 
 
 **Talking about Personal Stuffs:**
@@ -31,11 +32,13 @@
 
 - 💬 Ask me about anything, I am happy to help;
 - 💡 "Everything you want is a dream away"
-- ✈️ I love airplanes and I'm a simmer;
+- ✈️ I love airplanes
 - 💻Computer Engineering Student
+- Working at StoneCo. a Brazilian fintech of payment
 
 
 <br />
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/andrebrito16)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/andrefbrito_/)
+[![Twitter](https://img.shields.io/badge/-Twitter-e2e2e2?style=flat&logo=Twitter&logoColor=blue)](https://twitter.com/andrebrito16_)
