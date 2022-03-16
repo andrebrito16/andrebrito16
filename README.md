@@ -4,6 +4,7 @@
   Hi <img src="assets/images/Hi.gif" alt="hi gif" width="30px">, I'm André a 🇧🇷 developer
 </h1>
 &nbsp;
+
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=andrebrito16)
 
   <div>
