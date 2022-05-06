@@ -5,7 +5,7 @@
 </h1>
 &nbsp;
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=andrebrito16)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=andrebrito16&theme=dracula)
 
   <div>
   <a href="https://github.com/andrebrito16">
