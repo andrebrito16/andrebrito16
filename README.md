@@ -1,7 +1,7 @@
 <!-- Visitors count -->
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=andrebrito16&repo=andrebrito16&countColorcountColor)
 <h1 align="center">
-  Hi <img src="assets/images/Hi.gif" alt="hi gif" width="30px">, I'm André a 🇧🇷 developer
+  Hi <img src="assets/images/Hi.gif" alt="hi gif" width="30px">, I'm André a 🇧🇷 software enginner
 </h1>
 &nbsp;
 
