@@ -8,7 +8,7 @@
 
 <div style="text-align: center;">
 
-  ![Snake animation](https://github.com/andrebrito16/andrebrito16/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/andrebrito16/andrebrito16/output/github-contribution-grid-snake-dark.svg)
   
 </div>
 
